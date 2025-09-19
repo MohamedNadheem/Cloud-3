@@ -1,4 +1,3 @@
-# Cloud-3
 # EX - 4 Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 
 ### Name: MOHAMED NADHEEM N
